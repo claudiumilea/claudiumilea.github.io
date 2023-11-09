@@ -8,27 +8,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Claudiu Milea
+    tagline: Senior Software Engineer
+    avatar: pozaClaudiu2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: claudius.milea@gmail.com
+    phone: +40 732 409 311
+    timezone: EET (GMT+2)
+    citizenship: Romanian
+    website:  #do not add http://
+    linkedin: claudiumilea
+    github: claudiumilea
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
@@ -57,29 +56,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Senior Python Software Engineer with 21 years of experience in software engineering, backend development, 
+      QA automation, and web development. Proven track record of building and deploying successful web applications 
+      and building bespoke QA automation frameworks with Python, Javascript, Typescript, Java in CI/CD pipelines.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor Degree in Computer Science
+        university: Romanian American University
+        time: 1995 - 1999
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,84 +77,109 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Python Developer
+        time: June 2023 - Present (part time contract)
+        company: ClientPay, Chicago, IL
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          US based company making refunds easier.
+          Development of a solution for management of refunds and escheatment 
+          based on a rule based engine with different rules for all states in the USA.
+            - Using technologies like Python, Django, AWS, Cognito, REST, mysql, node.js developed a solution for managing the refunds, reducing manual interventions and increasing the speed of payments and refundee notifications while decreasing the error rate.
+            - Implemented rules-based engine that reduced the rate of errors and increased the speed of processing refunds to be within 24hrs.
+      - role: Software Development Engineer in Test (SDET)
+        time: January 2023 - October 2023
+        company: Siemens Energy, Munchen, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Siemens Energy - a global leader in energy technology.
+          Participated in the development of a Clean Energy Certificates solution based on blockchain technology.
+            - Developed a Backend QA automation framework with python and pytest - for testing the accuracy of processing of clean energy increments and storing in the blockchain.
+            - Developed a Frontend QA automation framework with dart for a Flutter FrontEnd - for a blockchain and meter based clean energy platform.
+            - Technologies used: Python, pytest, multiprocessing, typescript, bash, flutter test with dart, docker, mongodb, gitlab CI.
+            - Reduced the manual regression test time and cost by 90%.
+      - role: Python developer (part time contract)
+        time: November 2022 - May 2023
+        company: Credit Report Hero, New York, NY
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Siemens Energy - a global leader in energy technology.
+          Built a Credit Scoring Solution for End Customers and Multiple Partners white labeling.
+            - New features development on a Django backend implementation for multiple Credit Scoring platforms (Python, Django, mysql, threading).
+            - Code refactoring to align to coding best practices (SOLID and design patterns) and performance improvements.
+            - Implemented server-side code optimisation resulting in 20% - 40% improvement in response times throughout various modules of the solution.
+      - role: Software Development Engineer in Test (SDET)
+        time: July 2022 - March 2023
+        company: Vega Protocol DeFi Company, London, UK
+        details: |
+          Vega is an uncompromisingly decentralised derivatives DEX that runs on a purpose-built chain optimised for derivative trading.
+          It allows for trading of derivative products with no gas fees and other features that make it the preferred place for serious
+          and retail derivative traders alike.
+            - Implemented end-to-end automated system tests to perform various integration tests and validations with increased accuracy and up to 90% faster 
+              than manual testing for a blockchain based DeFi platform for trading financial products.
+            - Contributed to infrastructure optimisation by creating automated tests, allowing for more efficient testing.
+            - Python, pytest, threading, asyncio, multiprocessing, postgress, jenkins.
+            - Eliminated manual testing though the implementation of fully automated tests an a CI/CD pipeline.
+      - role: Python Developer
+        time: June 2022 - September 2022 (part time contract)
+        company: Plan B Digital Agency, Bucharest, Romania
+        details: |
+          - Developed Python scripts to scrape data from the largest e-commerce stores in Romania using Python tooling like BeautifulSoup, Requests/urllib and Requests_html, JSON.
+          - Created Flask web applications with SQLAlchemy, Marshmallow and Dataclasses that enabled efficient management of collected data.
+          - Utilised expertise in datetime functionality to accurately capture and analyze time-sensitive information.
+          - Python, beautifulsoup, requests/urllib, requests_html, sql, sql_sqlalchemy, marshmallow, dataclasses, datetime, flask.
+          - Improved customer data aggregation to deliver accurate and up-to-date insights, resulting in 30% increased customer sign-ups.
+      - role: Software Engineer in Test with Typescript and Python
+        time: November 2021 - July 2022
+        company: Annalise AI, Sydney, Australia
+        details: |
+          Designed to identify up to 130 radiological findings in two minutes or less, including a wide range of conditions that require time sensitive interventions, Annalise Enterprise CTB is a comprehensive decision-support AI for non-contrast head CT studies.
+            - AI based radiology chest X-ray (CXR) and brain CT.
+            - Developed and implemented QA automation framework for the React frontend using Typescript, Jest, and Puppeteer.
+            - Created a robust QA automation framework for the backend utilizing Python tooling and pytest.
+            - Reduced manual test cycle time by 90%, improved test coverage by 50%, and increased overall test accuracy by 50%.
+      - role: Python Developer
+        time: September 2021 - July 2022 (part time contract)
+        company: Plan B Digital Agency, Bucharest, Romania
+        details: |
+          - Web scraping solution for getting Google Reviews and other related info from Google Maps.
+          - Delivered full solution using python, beautifulsoup, requests/urllib, requests_html, flask, sqlalchemy, flask_marshmallow, dato4seo, tqdm, datetime.
+      - role: Senior Software Development Engineer in Test
+        time: September 2020 - November 2021
+        company: Indeed Flex, London, UK
+        details: |
+          Through the convenience of a easy-to-use mobile app, Indeed Flex connects job seekers with market-leading companies in the UK and US, offering a broad choice of short-term and long-term temporary jobs across multiple sectors and locations.
+            - UK Based company linked to Indeed.com creating products for Temporary work - democratising work and Flexible working.
+            - Created a frontend QA automation framework with Cypress and javascript.
+            - Created iOS QA automation tests with swift and xcui and appium.
+
+
+
+
+
+
+
+      
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Certified python programmer PCEP-30-01
+          start: 2021
+          end:
+          organization: Python Institute
+          credentialid:
+          credentialurl: https://www.credly.com/badges/c96c8aa9-3a03-4347-a5cf-1544b96531d3?source=linked_in_profile
+          credentialname: Certified Entry-Level Python Programmer
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            PCEP – Certified Entry-Level Python Programmer certification shows that the individual is familiar with universal computer programming concepts like data types, containers, functions, conditions, loops, as well as Python programming language syntax, semantics, and the runtime environment.
+        - name: Microsoft Technology Associate 98-381 Introduction to Programming Using Python
+          start: 2021
           end:
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialid: H758-8762
+          credentialurl:
+          credentialname: Introduction to Programming Using Python
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Programming using Python is designed for candidates who can recognize and write syntactically correct Python code, recognize data types supported by Python, and be able to recognize and write Python code that will logically solve a given problem. The exam covers topics such as input and output operations, document and structure code, perform troubleshooting and error handling, perform operations using modules and tools, and construct and analyze code segments that perform file input and output operations.
 
 projects:
     title: Projects
@@ -198,68 +208,15 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript QA Automation
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
