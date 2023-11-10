@@ -73,7 +73,7 @@ experiences:
       - role: Python Developer with Django
         time: June 2023 - Present (part time contract)
         company: ClientPay, Chicago, IL
-        technologies: python | Django | AWS | Cognito | REST | mysql | node.js
+        technologies: Python | Django | AWS | Cognito | REST | MySQL | Node.js
         details: |
           US based company making refunds easier.
           Development of a solution for management of refunds and escheatment 
@@ -94,7 +94,7 @@ experiences:
       - role: Python developer with Django
         time: November 2022 - May 2023 (part time contract)
         company: Credit Report Hero, New York, NY
-        technologies: python | Django | mysql | REST | threading
+        technologies: Python | Django | MySQL | REST | Threading
         details: |
           Siemens Energy - a global leader in energy technology.
           Built a Credit Scoring Solution for End Customers and Multiple Partners white labeling.
@@ -104,7 +104,7 @@ experiences:
       - role: Software Development Engineer in Test (SDET)
         time: July 2022 - March 2023
         company: Vega Protocol DeFi Company, London, UK
-        technologies: python | pytest | threading | asyncio | multiprocessing | postgress | jenkins
+        technologies: Python | PyTest | Threading | AsyncIO | Multiprocessing | Postgress | Jenkins
         details: |
           Vega is an uncompromisingly decentralised derivatives DEX that runs on a purpose-built chain optimised for derivative trading.
           It allows for trading of derivative products with no gas fees and other features that make it the preferred place for serious
@@ -117,7 +117,7 @@ experiences:
       - role: Python Developer
         time: June 2022 - September 2022 (part time contract)
         company: Plan B Digital Agency, Bucharest, Romania
-        technologies: python | Flask | mysql | REST | threading
+        technologies: Python | Flask | MySQL | REST | Threading
         details: |
           - Developed Python scripts to scrape data from the largest e-commerce stores in Romania using Python tooling like BeautifulSoup, Requests/urllib and Requests_html, JSON.
           - Created Flask web applications with SQLAlchemy, Marshmallow and Dataclasses that enabled efficient management of collected data.
@@ -127,7 +127,7 @@ experiences:
       - role: Software Engineer in Test with Typescript and Python
         time: November 2021 - July 2022
         company: Annalise AI, Sydney, Australia
-        technologies: python | pytest | typescript | jest | puppeteer | REST | mongodb | gitlab CI
+        technologies: Python | PyTest | Typescript | Jest | Puppeteer | REST | MongoDB | Gitlab CI
         details: |
           Designed to identify up to 130 radiological findings in two minutes or less, including a wide range of conditions that require time sensitive interventions, Annalise Enterprise CTB is a comprehensive decision-support AI for non-contrast head CT studies.
             - AI based radiology chest X-ray (CXR) and brain CT.
@@ -137,14 +137,14 @@ experiences:
       - role: Python Developer
         time: September 2021 - July 2022 (part time contract)
         company: Plan B Digital Agency, Bucharest, Romania
-        technologies: python | Flask | mysql | REST | threading
+        technologies: Python | Flask | MySQL | REST | Threading
         details: |
           - Web scraping solution for getting Google Reviews and other related info from Google Maps.
           - Delivered full solution using python, beautifulsoup, requests/urllib, requests_html, flask, sqlalchemy, flask_marshmallow, dato4seo, tqdm, datetime.
       - role: Senior Software Development Engineer in Test
         time: September 2020 - November 2021
         company: Indeed Flex, London, UK
-        technologies: python | javascript | cypress | swift | xcui | appium | REST | circle CI
+        technologies: Python | Javascript | Cypress | Swift | XCUI | Appium | REST | Circle CI
         details: |
           Through the convenience of a easy-to-use mobile app, Indeed Flex connects job seekers with market-leading companies in the UK and US, offering a broad choice of short-term and long-term temporary jobs across multiple sectors and locations.
             - UK Based company linked to Indeed.com creating products for Temporary work - democratising work and Flexible working.
@@ -153,7 +153,7 @@ experiences:
       - role: Senior Software Engineer
         time: September 2019 - September 2020
         company: Tracr, London, UK
-        technologies: python | pytest | javascript | testcafe | REST | loadrunner | locust | gitlab CI
+        technologies: Python | PyTest | Javascript | TestCafe | REST | LoadRunner | locust | Gitlab CI
         details: |
           Tracr allows the journey of your diamond to be documented from source, while creating a secure and immutable record which can host a rich range of information including provenance, grading certifications and inscription reports.
             - Implemented BDD functional testing automation framework for customer on a web platform written in python, javascript. Integrate framework within the CD/CI, automatic reporting in Jira, postman, burpsuite, database testing.
