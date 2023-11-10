@@ -32,25 +32,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Romanian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: German
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Software
           link:
 
-        - item: Snowboarding
+        - item: Astronomy
           link:
 
-        - item: Cooking
+        - item: Documentaries
           link:
 
 career-profile:
@@ -66,20 +66,14 @@ education:
         university: Romanian American University
         time: 1995 - 1999
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Python Developer
+      - role: Python Developer with Django
         time: June 2023 - Present (part time contract)
         company: ClientPay, Chicago, IL
+        technologies: python | Django | AWS | Cognito | REST | mysql | node.js
         details: |
           US based company making refunds easier.
           Development of a solution for management of refunds and escheatment 
@@ -89,6 +83,7 @@ experiences:
       - role: Software Development Engineer in Test (SDET)
         time: January 2023 - October 2023
         company: Siemens Energy, Munchen, Germany
+        technologies: python | pytest | typescript | dart | flutter | docker | mongodb | gitlab CI
         details: |
           Siemens Energy - a global leader in energy technology.
           Participated in the development of a Clean Energy Certificates solution based on blockchain technology.
@@ -96,9 +91,10 @@ experiences:
             - Developed a Frontend QA automation framework with dart for a Flutter FrontEnd - for a blockchain and meter based clean energy platform.
             - Technologies used: Python, pytest, multiprocessing, typescript, bash, flutter test with dart, docker, mongodb, gitlab CI.
             - Reduced the manual regression test time and cost by 90%.
-      - role: Python developer (part time contract)
-        time: November 2022 - May 2023
+      - role: Python developer with Django
+        time: November 2022 - May 2023 (part time contract)
         company: Credit Report Hero, New York, NY
+        technologies: python | Django | mysql | REST | threading
         details: |
           Siemens Energy - a global leader in energy technology.
           Built a Credit Scoring Solution for End Customers and Multiple Partners white labeling.
@@ -108,6 +104,7 @@ experiences:
       - role: Software Development Engineer in Test (SDET)
         time: July 2022 - March 2023
         company: Vega Protocol DeFi Company, London, UK
+        technologies: python | pytest | threading | asyncio | multiprocessing | postgress | jenkins
         details: |
           Vega is an uncompromisingly decentralised derivatives DEX that runs on a purpose-built chain optimised for derivative trading.
           It allows for trading of derivative products with no gas fees and other features that make it the preferred place for serious
@@ -120,6 +117,7 @@ experiences:
       - role: Python Developer
         time: June 2022 - September 2022 (part time contract)
         company: Plan B Digital Agency, Bucharest, Romania
+        technologies: python | Flask | mysql | REST | threading
         details: |
           - Developed Python scripts to scrape data from the largest e-commerce stores in Romania using Python tooling like BeautifulSoup, Requests/urllib and Requests_html, JSON.
           - Created Flask web applications with SQLAlchemy, Marshmallow and Dataclasses that enabled efficient management of collected data.
@@ -129,6 +127,7 @@ experiences:
       - role: Software Engineer in Test with Typescript and Python
         time: November 2021 - July 2022
         company: Annalise AI, Sydney, Australia
+        technologies: python | pytest | typescript | jest | puppeteer | REST | mongodb | gitlab CI
         details: |
           Designed to identify up to 130 radiological findings in two minutes or less, including a wide range of conditions that require time sensitive interventions, Annalise Enterprise CTB is a comprehensive decision-support AI for non-contrast head CT studies.
             - AI based radiology chest X-ray (CXR) and brain CT.
@@ -138,26 +137,70 @@ experiences:
       - role: Python Developer
         time: September 2021 - July 2022 (part time contract)
         company: Plan B Digital Agency, Bucharest, Romania
+        technologies: python | Flask | mysql | REST | threading
         details: |
           - Web scraping solution for getting Google Reviews and other related info from Google Maps.
           - Delivered full solution using python, beautifulsoup, requests/urllib, requests_html, flask, sqlalchemy, flask_marshmallow, dato4seo, tqdm, datetime.
       - role: Senior Software Development Engineer in Test
         time: September 2020 - November 2021
         company: Indeed Flex, London, UK
+        technologies: python | javascript | cypress | swift | xcui | appium | REST | circle CI
         details: |
           Through the convenience of a easy-to-use mobile app, Indeed Flex connects job seekers with market-leading companies in the UK and US, offering a broad choice of short-term and long-term temporary jobs across multiple sectors and locations.
             - UK Based company linked to Indeed.com creating products for Temporary work - democratising work and Flexible working.
             - Created a frontend QA automation framework with Cypress and javascript.
             - Created iOS QA automation tests with swift and xcui and appium.
-
-
-
-
-
-
-
-      
-
+      - role: Senior Software Engineer
+        time: September 2019 - September 2020
+        company: Tracr, London, UK
+        technologies: python | pytest | javascript | testcafe | REST | loadrunner | locust | gitlab CI
+        details: |
+          Tracr allows the journey of your diamond to be documented from source, while creating a secure and immutable record which can host a rich range of information including provenance, grading certifications and inscription reports.
+            - Implemented BDD functional testing automation framework for customer on a web platform written in python, javascript. Integrate framework within the CD/CI, automatic reporting in Jira, postman, burpsuite, database testing.
+            - REST API python automation for microservices, requests, pytest-bdd, json, jsonpath, rest APIs, postman, newman, burpsuite, loadrunner, gitlab, UI javascript, test café, aws.
+            - Performance testing also with load runner and locust (python).
+            - Tech lead for a team of 4 people for qa automation within the project.
+      - role: Tech Lead | CTO
+        time: August 2009 - September 2019
+        company: Euro-Testing Software Solutions, Bucharest, Romania
+        details: |
+          Providing QA Automation, ALM Consulting, Python and Web Development services for multiple clients in Romania, UK, Germany, and USA.
+            - End 2 End QA Services.
+            - QA Automation Services.
+            - ALM Consulting Services.
+            - Python Development Services.
+            - Built and managed QA automation consulting services using Java, Python, and JavaScript.
+            - HP ALM, HP LoadRunner, HP LoadRunner Developer, HP UFT, HP UFT Developer
+      - role: R&D Director
+        time: November 2007 - July 2009
+        company: Alvarion, Bucharest, Romania
+        details: |
+          Wi-fi / Wimax company
+            - Hired, grew and managed the teams mentioned above of over 30 wireless engineers in an R&D environment. 
+            - Performed integration testing, alpha (indoor and outdoor) testing, radio testing, system testing, Wimax/WiFi radio design and IT services.
+            - Managed Infrastructure team of the Romania R&D centre (IT, network and technical laboratories).
+      - role: Project Manager
+        time: Jun 2006 – Nov 2007
+        company: Romtelecom, Bucharest, Romania
+        details: |
+          Incumbent operator in Romania
+            - Lead a cross functional multi-national team of 25 people to upgrade version and migrate data of Interconnect and Partner Billing System. This increased system performance around 7 times in terms of processes to be performed and people involved.
+            - Achieved Interconnect and Partner Billing System Upgrade and Migration within time, costs and quality objectives. Total effort for project 125 man months on a 9 month timeline. Minimal incidents in production detected after go live.
+      - role: Bluespace Project Manager
+        time: Jan 2005 - Jun 2006
+        company: Bluespace, Bucharest, Romania
+        details: |
+          Software development company
+            - Managed successfully three major versions of Bluespace's product which has been implemented at customers with no major issues afterwards in production.
+            - Formed the Software Testing team of 9 people in the area of Functional Testing, Non-Functional Testing and Automated Testing Identified. 
+            - Implemented Testing Management and Testing Strategy.
+      - role: QA Engineer | QA Team Lead | QA Manager
+        time: Apr 2001 - Jan 2005
+        company: Vodafone, Bucharest, Romania
+        details: |
+          - Managed between November 2003 and December 2004 a team of 75 people for the upgrade of the billing system together with relevant integrated applications: Self Care, CRM, Collection, Point of Sales, Document Management and Middleware.
+          - Functional Testing, API Testing, Testing Automation and Performance Testing for: CRM, IBM IIB, Web Portals.
+          - Implemented manual, automated and performance testing for an ecosystem of over 100 business support applications.
 
 certifications:
       title: Certifications
@@ -181,42 +224,125 @@ certifications:
           details: |
             Programming using Python is designed for candidates who can recognize and write syntactically correct Python code, recognize data types supported by Python, and be able to recognize and write Python code that will logically solve a given problem. The exam covers topics such as input and output operations, document and structure code, perform troubleshooting and error handling, perform operations using modules and tools, and construct and analyze code segments that perform file input and output operations.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+skill_categories:
+  - category_title: "Backend Development"
+    skills:
+      - title: ""
+        toolset:
+          - name: "Python & Django"
+            level: "85%"
+          - name: "Python & Flask"
+            level: "70%"
+          - name: "Python & FastAPI"
+            level: "70%"
+  - category_title: "QA Automation"
+    skills:
+      - title: ""
+        toolset:
+          - name: "Python - backend"
+            level: "95%"
+          - name: "Python - selenium"
+            level: "95%"
+          - name: "Python - appium"
+            level: "95%"
+          - name: "Javascript - cypress"
+            level: "80%"
+          - name: "Javascript - testcafe"
+            level: "80%"
+          - name: "Typescript - playwright"
+            level: "70%"
+          - name: "Typescript - puppeteer"
+            level: "70%"
+          - name: "REST API"
+            level: "95%"
+          - name: "Java - selenium"
+            level: "50%"
+  - category_title: "Performance Testing"
+    skills:
+      - title: ""
+        toolset:
+          - name: "Python - locust.io"
+            level: "95%"
+          - name: "Javascript - k6"
+            level: "80%"
+          - name: "Javascript - loadrunner developer"
+            level: "80%"
+          - name: "loadrunner"
+            level: "90%"
+          - name: "jmeter"
+            level: "90%"
+          - name: "gatling - scala"
+            level: "70%"
+  - category_title: "CI/CD"
+    skills:
+      - title: ""
+        toolset:
+          - name: "docker"
+            level: "80%"
+          - name: "github"
+            level: "80%"
+          - name: "github actions"
+            level: "80%"
+          - name: "gitlab"
+            level: "80%"
+          - name: "gitlab ci"
+            level: "80%"
+          - name: "jenkins"
+            level: "80%"
+          - name: "jmeter"
+            level: "90%"
+          - name: "gatling - scala"
+            level: "70%"
+  - category_title: "Tooling"
+    skills:
+      - title: ""
+        toolset:
+          - name: "postman"
+            level: "95%"
+          - name: "burp suite | charles | fiddler"
+            level: "80%"
+          - name: "android studio | xcode"
+            level: "70%"
+          - name: "jira"
+            level: "90%"
+          - name: "confluence"
+            level: "90%"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 70%
-
-      - name: Javascript QA Automation
-        level: 80%
 
 footer: >
+  
+  Backend Development: Django, fastapi, AWS, boto3, asyncio, threads, pydantic, alembic, multiprocessing, REST, sqlalchemy, celery, flask, bs4, jinja2, html_requests, postgres, mysql, mongodb.
+  QA Automation using Python: pytest, pytest-bdd, selenium, cucumber, REST, JSON. 
+  QA Automation using Javascript/Typescript: cypress, puppeteer, playwright, detox, testcafe, jest, jasmine, chai.  
+  Performance testing: k6, locust, jmeter, gatling, loadrunner, loadrunner developer.  
+  Docker and CI/CD: docker, github, gitlab, Jenkins, circle ci, gitlab ci, github actions.  
+  Testing tools: postman, burp suite, charles, fiddler, appium, android studio, xcode (manual and automated)  
+  Agile tooling: Jira, Confluence.
     
