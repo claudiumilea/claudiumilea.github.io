@@ -175,6 +175,7 @@ experiences:
       - role: R&D Director
         time: November 2007 - July 2009
         company: Alvarion, Bucharest, Romania
+        technologies: Linux | Bash | SQL | Microsoft Project
         details: |
           Wi-fi / Wimax company
             - Hired, grew and managed the teams mentioned above of over 30 wireless engineers in an R&D environment. 
@@ -183,6 +184,7 @@ experiences:
       - role: Project Manager
         time: Jun 2006 – Nov 2007
         company: Romtelecom, Bucharest, Romania
+        technologies: Linux | C# | .Net | Visual Studio Tools For Office | SQL | Microsoft Project
         details: |
           Incumbent operator in Romania
             - Lead a cross functional multi-national team of 25 people to upgrade version and migrate data of Interconnect and Partner Billing System. This increased system performance around 7 times in terms of processes to be performed and people involved.
@@ -190,6 +192,7 @@ experiences:
       - role: Bluespace Project Manager
         time: Jan 2005 - Jun 2006
         company: Bluespace, Bucharest, Romania
+        technologies: Windows | C# | .Net | Visual Studio Tools For Office | SQL | Microsoft Project
         details: |
           Software development company
             - Managed successfully three major versions of Bluespace's product which has been implemented at customers with no major issues afterwards in production.
@@ -198,6 +201,7 @@ experiences:
       - role: QA Engineer | QA Team Lead | QA Manager
         time: Apr 2001 - Jan 2005
         company: Vodafone, Bucharest, Romania
+        technologies: Windows | C# | .Net | Visual Studio Tools For Office | Oracle SQL | SQL | Microsoft Project | Unix | Linux
         details: |
           - Managed between November 2003 and December 2004 a team of 75 people for the upgrade of the billing system together with relevant integrated applications: Self Care, CRM, Collection, Point of Sales, Document Management and Middleware.
           - Functional Testing, API Testing, Testing Automation and Performance Testing for: CRM, IBM IIB, Web Portals.
