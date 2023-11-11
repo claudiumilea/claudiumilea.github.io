@@ -73,7 +73,7 @@ experiences:
       - role: Python Developer with Django (part time contract)
         time: June 2023 - Present
         company: ClientPay, Chicago, IL
-        technologies: Python | Django | AWS | Cognito | REST | MySQL | Node.js
+        technologies: Python | Django | AWS | Cognito | REST | MySQL | Node.js | Jira
         details: |
           US based company making refunds easier.
           Development of a solution for management of refunds and escheatment 
@@ -83,18 +83,18 @@ experiences:
       - role: Software Development Engineer in Test (SDET)
         time: January 2023 - October 2023
         company: Siemens Energy, Munchen, Germany
-        technologies: python | pytest | typescript | dart | flutter | docker | mongodb | gitlab CI
+        technologies: Python | PyTest | typescript | Node.js | dart | flutter | AWS | docker | mongodb | gitlab CI | Jira
         details: |
           Siemens Energy - a global leader in energy technology.
           Participated in the development of a Clean Energy Certificates solution based on blockchain technology.
-            - Developed a Backend QA automation framework with python and pytest - for testing the accuracy of processing of clean energy increments and storing in the blockchain.
+            - Developed a Backend QA automation framework with Python and PyTest - for testing the accuracy of processing of clean energy increments and storing in the blockchain.
             - Developed a Frontend QA automation framework with dart for a Flutter FrontEnd - for a blockchain and meter based clean energy platform.
-            - Technologies used: Python, pytest, multiprocessing, typescript, bash, flutter test with dart, docker, mongodb, gitlab CI.
+            - Technologies used: Python, PyTest, multiprocessing, typescript, bash, flutter test with dart, docker, mongodb, gitlab CI.
             - Reduced the manual regression test time and cost by 90%.
       - role: Python developer with Django (part time contract)
         time: November 2022 - May 2023
         company: Credit Report Hero, New York, NY
-        technologies: Python | Django | MySQL | REST | Threading
+        technologies: Python | Django | AWS | MySQL | REST | Threading | Jira
         details: |
           Siemens Energy - a global leader in energy technology.
           Built a Credit Scoring Solution for End Customers and Multiple Partners white labeling.
@@ -104,7 +104,7 @@ experiences:
       - role: Software Development Engineer in Test (SDET)
         time: July 2022 - March 2023
         company: Vega Protocol DeFi Company, London, UK
-        technologies: Python | PyTest | Threading | AsyncIO | Multiprocessing | Postgress | Jenkins
+        technologies: Python | PyTest | Threading | AsyncIO | Multiprocessing | AWS | Postgres | Jenkins
         details: |
           Vega is an uncompromisingly decentralised derivatives DEX that runs on a purpose-built chain optimised for derivative trading.
           It allows for trading of derivative products with no gas fees and other features that make it the preferred place for serious
@@ -112,7 +112,7 @@ experiences:
             - Implemented end-to-end automated system tests to perform various integration tests and validations with increased accuracy and up to 90% faster 
               than manual testing for a blockchain based DeFi platform for trading financial products.
             - Contributed to infrastructure optimisation by creating automated tests, allowing for more efficient testing.
-            - Python, pytest, threading, asyncio, multiprocessing, postgress, jenkins.
+            - Python, PyTest, threading, asyncio, multiprocessing, postgress, jenkins.
             - Eliminated manual testing though the implementation of fully automated tests an a CI/CD pipeline.
       - role: Python Developer (part time contract)
         time: June 2022 - September 2022
@@ -127,24 +127,24 @@ experiences:
       - role: Software Engineer in Test with Typescript and Python
         time: November 2021 - July 2022
         company: Annalise AI, Sydney, Australia
-        technologies: Python | PyTest | Typescript | Jest | Puppeteer | REST | MongoDB | Gitlab CI
+        technologies: Python | PyTest | Typescript | Node.js | Jest | Puppeteer | REST | AWS | MongoDB | Postgres | MySQL | Gitlab CI | Jira
         details: |
           Designed to identify up to 130 radiological findings in two minutes or less, including a wide range of conditions that require time sensitive interventions, Annalise Enterprise CTB is a comprehensive decision-support AI for non-contrast head CT studies.
             - AI based radiology chest X-ray (CXR) and brain CT.
             - Developed and implemented QA automation framework for the React frontend using Typescript, Jest, and Puppeteer.
-            - Created a robust QA automation framework for the backend utilizing Python tooling and pytest.
+            - Created a robust QA automation framework for the backend utilizing Python tooling and PyTest.
             - Reduced manual test cycle time by 90%, improved test coverage by 50%, and increased overall test accuracy by 50%.
       - role: Python Developer (part time contract)
         time: September 2021 - July 2022
         company: Plan B Digital Agency, Bucharest, Romania
-        technologies: Python | Flask | MySQL | REST | Threading
+        technologies: Python | Flask | Postgres | REST | Threading
         details: |
           - Web scraping solution for getting Google Reviews and other related info from Google Maps.
-          - Delivered full solution using python, beautifulsoup, requests/urllib, requests_html, flask, sqlalchemy, flask_marshmallow, dato4seo, tqdm, datetime.
+          - Delivered full solution using Python, beautifulsoup, requests/urllib, requests_html, flask, sqlalchemy, flask_marshmallow, dato4seo, tqdm, datetime.
       - role: Senior Software Development Engineer in Test
         time: September 2020 - November 2021
         company: Indeed Flex, London, UK
-        technologies: Python | Javascript | Cypress | Swift | XCUI | Appium | REST | Circle CI
+        technologies: Python | Javascript | Cypress | Node.js | Swift | XCUI | Appium | REST | Circle CI | AWS | Jira | Postgres
         details: |
           Through the convenience of a easy-to-use mobile app, Indeed Flex connects job seekers with market-leading companies in the UK and US, offering a broad choice of short-term and long-term temporary jobs across multiple sectors and locations.
             - UK Based company linked to Indeed.com creating products for Temporary work - democratising work and Flexible working.
@@ -153,17 +153,17 @@ experiences:
       - role: Senior Software Engineer
         time: September 2019 - September 2020
         company: Tracr, London, UK
-        technologies: Python | PyTest | Javascript | TestCafe | REST | LoadRunner | locust | Gitlab CI
+        technologies: Python | PyTest | Javascript | TestCafe | Node.js | REST | LoadRunner | locust | Gitlab CI | AWS | Jira | Postgres
         details: |
           Tracr allows the journey of your diamond to be documented from source, while creating a secure and immutable record which can host a rich range of information including provenance, grading certifications and inscription reports.
-            - Implemented BDD functional testing automation framework for customer on a web platform written in python, javascript. Integrate framework within the CD/CI, automatic reporting in Jira, postman, burpsuite, database testing.
-            - REST API python automation for microservices, requests, pytest-bdd, json, jsonpath, rest APIs, postman, newman, burpsuite, loadrunner, gitlab, UI javascript, test café, aws.
-            - Performance testing also with load runner and locust (python).
+            - Implemented BDD functional testing automation framework for customer on a web platform written in Python, javascript. Integrate framework within the CD/CI, automatic reporting in Jira, postman, burpsuite, database testing.
+            - REST API Python automation for microservices, requests, PyTest-bdd, json, jsonpath, rest APIs, postman, newman, burpsuite, loadrunner, gitlab, UI javascript, test café, aws.
+            - Performance testing also with load runner and locust (Python).
             - Tech lead for a team of 4 people for qa automation within the project.
       - role: Tech Lead
         time: August 2016 - September 2019
         company: Euro-Testing Software Solutions, Bucharest, Romania
-        technologies: Python | PyTest | Selenium | Javascript | Jasmine | Jest | Appium | Mocha | Java | C# | REST | JSON | XML | SQL | Jmeter | Git | Jenkins | UFT Developer | Jira | Confluence
+        technologies: Python | PyTest | Selenium | Javascript | Jasmine | Jest | Node.js | Appium | Mocha | Java | C# | REST | JSON | Jmeter | Git | Jenkins | UFT Developer | Jira | Confluence | Postgres
         details: |
           Providing QA Automation, ALM Consulting, Python and Web Development services for multiple clients in Romania, UK, Germany, and USA.
             - End 2 End QA Services.
@@ -172,7 +172,7 @@ experiences:
             - Python Development Services.
             - Built and managed QA automation consulting services using Java, Python, and JavaScript using tools like Selenium, UFT Developer
       - role: CTO
-        time: August 2009 - September 2019
+        time: August 2009 - August 2016
         company: Euro-Testing Software Solutions, Bucharest, Romania
         technologies: JSON | XML | SQL | LoadRunner | Jmeter | Git | Jenkins | Microsoft Project | C# | Visual Studio Tools for Office
         details: |
@@ -221,7 +221,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Certified python programmer PCEP-30-01
+        - name: Certified Python programmer PCEP-30-01
           start: 2021
           end:
           organization: Python Institute
@@ -355,7 +355,7 @@ skill_categories:
 footer: >
   
   Backend Development: Django, fastapi, AWS, boto3, asyncio, threads, pydantic, alembic, multiprocessing, REST, sqlalchemy, celery, flask, bs4, jinja2, html_requests, postgres, mysql, mongodb.
-  QA Automation using Python: pytest, pytest-bdd, selenium, cucumber, REST, JSON. 
+  QA Automation using Python: PyTest, PyTest-bdd, selenium, cucumber, REST, JSON. 
   QA Automation using Javascript/Typescript: cypress, puppeteer, playwright, detox, testcafe, jest, jasmine, chai.  
   Performance testing: k6, locust, jmeter, gatling, loadrunner, loadrunner developer.  
   Docker and CI/CD: docker, github, gitlab, Jenkins, circle ci, gitlab ci, github actions.  
