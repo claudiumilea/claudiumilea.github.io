@@ -70,8 +70,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Python Developer with Django
-        time: June 2023 - Present (part time contract)
+      - role: Python Developer with Django (part time contract)
+        time: June 2023 - Present
         company: ClientPay, Chicago, IL
         technologies: Python | Django | AWS | Cognito | REST | MySQL | Node.js
         details: |
@@ -91,8 +91,8 @@ experiences:
             - Developed a Frontend QA automation framework with dart for a Flutter FrontEnd - for a blockchain and meter based clean energy platform.
             - Technologies used: Python, pytest, multiprocessing, typescript, bash, flutter test with dart, docker, mongodb, gitlab CI.
             - Reduced the manual regression test time and cost by 90%.
-      - role: Python developer with Django
-        time: November 2022 - May 2023 (part time contract)
+      - role: Python developer with Django (part time contract)
+        time: November 2022 - May 2023
         company: Credit Report Hero, New York, NY
         technologies: Python | Django | MySQL | REST | Threading
         details: |
@@ -114,8 +114,8 @@ experiences:
             - Contributed to infrastructure optimisation by creating automated tests, allowing for more efficient testing.
             - Python, pytest, threading, asyncio, multiprocessing, postgress, jenkins.
             - Eliminated manual testing though the implementation of fully automated tests an a CI/CD pipeline.
-      - role: Python Developer
-        time: June 2022 - September 2022 (part time contract)
+      - role: Python Developer (part time contract)
+        time: June 2022 - September 2022
         company: Plan B Digital Agency, Bucharest, Romania
         technologies: Python | Flask | MySQL | REST | Threading
         details: |
@@ -134,8 +134,8 @@ experiences:
             - Developed and implemented QA automation framework for the React frontend using Typescript, Jest, and Puppeteer.
             - Created a robust QA automation framework for the backend utilizing Python tooling and pytest.
             - Reduced manual test cycle time by 90%, improved test coverage by 50%, and increased overall test accuracy by 50%.
-      - role: Python Developer
-        time: September 2021 - July 2022 (part time contract)
+      - role: Python Developer (part time contract)
+        time: September 2021 - July 2022
         company: Plan B Digital Agency, Bucharest, Romania
         technologies: Python | Flask | MySQL | REST | Threading
         details: |
