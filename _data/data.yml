@@ -163,6 +163,7 @@ experiences:
       - role: Tech Lead | CTO
         time: August 2009 - September 2019
         company: Euro-Testing Software Solutions, Bucharest, Romania
+        technologies: Python | PyTest | Selenium | Javascript | Jasmine | Jest | Appium | Mocha | Java | C# | REST | JSON | XML | SQL | LoadRunner | Jmeter | Git | Jenkins | UFT Developer | Jira | Confluence | Microsoft Project
         details: |
           Providing QA Automation, ALM Consulting, Python and Web Development services for multiple clients in Romania, UK, Germany, and USA.
             - End 2 End QA Services.
