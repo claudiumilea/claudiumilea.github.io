@@ -160,10 +160,21 @@ experiences:
             - REST API python automation for microservices, requests, pytest-bdd, json, jsonpath, rest APIs, postman, newman, burpsuite, loadrunner, gitlab, UI javascript, test café, aws.
             - Performance testing also with load runner and locust (python).
             - Tech lead for a team of 4 people for qa automation within the project.
-      - role: Tech Lead | CTO
+      - role: Tech Lead
+        time: August 2016 - September 2019
+        company: Euro-Testing Software Solutions, Bucharest, Romania
+        technologies: Python | PyTest | Selenium | Javascript | Jasmine | Jest | Appium | Mocha | Java | C# | REST | JSON | XML | SQL | Jmeter | Git | Jenkins | UFT Developer | Jira | Confluence
+        details: |
+          Providing QA Automation, ALM Consulting, Python and Web Development services for multiple clients in Romania, UK, Germany, and USA.
+            - End 2 End QA Services.
+            - QA Automation Services.
+            - ALM Consulting Services.
+            - Python Development Services.
+            - Built and managed QA automation consulting services using Java, Python, and JavaScript using tools like Selenium, UFT Developer
+      - role: CTO
         time: August 2009 - September 2019
         company: Euro-Testing Software Solutions, Bucharest, Romania
-        technologies: Python | PyTest | Selenium | Javascript | Jasmine | Jest | Appium | Mocha | Java | C# | REST | JSON | XML | SQL | LoadRunner | Jmeter | Git | Jenkins | UFT Developer | Jira | Confluence | Microsoft Project
+        technologies: JSON | XML | SQL | LoadRunner | Jmeter | Git | Jenkins | Microsoft Project | C# | Visual Studio Tools for Office
         details: |
           Providing QA Automation, ALM Consulting, Python and Web Development services for multiple clients in Romania, UK, Germany, and USA.
             - End 2 End QA Services.
