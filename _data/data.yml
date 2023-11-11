@@ -93,10 +93,10 @@ experiences:
             - Reduced the manual regression test time and cost by 90%.
       - role: Python developer with Django (part time contract)
         time: November 2022 - May 2023
-        company: Credit Report Hero, New York, NY
+        company: Credit Score Hero, New York, NY
         technologies: Python | Django | AWS | MySQL | REST | Threading | Jira
         details: |
-          Siemens Energy - a global leader in energy technology.
+          Credit Score Hero
           Built a Credit Scoring Solution for End Customers and Multiple Partners white labeling.
             - New features development on a Django backend implementation for multiple Credit Scoring platforms (Python, Django, mysql, threading).
             - Code refactoring to align to coding best practices (SOLID and design patterns) and performance improvements.
