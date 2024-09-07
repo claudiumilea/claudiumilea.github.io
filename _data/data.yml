@@ -70,6 +70,16 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Python Developer
+        time: January 2024 - Present
+        company: Endava, Bucharest, Romania
+        technologies: Python | FastAPI | AWS | RabbitQM | REST | Postgres | Docker | Kubernetes | Linux | CircleCI
+        details: |
+          US based company making refunds easier.
+          Development of microservices for SDWAN provisioning solution for satellite communication in a global shipping firm.
+            - Developed an SDWAN provisioning solution for satellite communication in a global shipping firm with a Python engineering team of seven members.
+            - Utilized technologies such as AWS, Docker, Kubernetes, Python, Postgres, and RabbitMQ to deliver the solution.
+            - Improved deployment efficiency and reduced operational costs by optimizing the service-oriented architecture.
       - role: Python Developer with Django (part time contract)
         time: June 2023 - Present
         company: ClientPay, Chicago, IL
