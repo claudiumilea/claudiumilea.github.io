@@ -259,12 +259,13 @@ projects:
       tech_stack: Python 3.12, FastAPI, asyncio, Scrapy, Playwright, PostgreSQL, SQLAlchemy, Anthropic API, Supabase, Render, Docker
     - title: AI First Issuer Processing Platform
       bullets:
-        - Built Cognito-based authentication for the platform using AWS Cognito and IAM, SSO, and OIDC.
-        - Developed backend services using Python, TypeScript, FastAPI, and GraphQL.
-        - Implemented cloud-native architecture using AWS Lambda, DynamoDB, S3, Step Functions, ECS, EC2, RDS, CloudWatch, IAM, API Gateway, and SES.
-        - Supported infrastructure and deployment workflows using Terraform, AWS CodeDeploy, AWS CodePipeline, and Bitbucket.
-        - Agentic AI spec-based development using Claude Code.
-      tech_stack: Python, TypeScript, FastAPI, GraphQL, AWS Lambda, DynamoDB, S3, Step Functions, ECS, EC2, RDS, CloudWatch, IAM, API Gateway, SES, Terraform, AWS CodeDeploy, AWS CodePipeline, Bitbucket
+        - Design and development of a cloud-native issuer processing platform using Python, TypeScript, FastAPI and GraphQL.
+        - Implement authentication and authorization using AWS Cognito, IAM, SSO and OIDC.
+        - Build serverless and event-driven services using AWS Lambda, DynamoDB, S3, Step Functions, API Gateway, ECS, EC2 and RDS.
+        - Manage infrastructure and automated deployments using Terraform, AWS CodePipeline, CodeDeploy and Bitbucket.
+        - Implement monitoring, security and operational support using CloudWatch and IAM best practices.
+        - Use agentic AI / specification-driven development with Claude Code to accelerate implementation, refactoring and testing.
+      tech_stack: Python, TypeScript, FastAPI, GraphQL, AWS, Terraform, Bitbucket, SSO, OIDC, Claude Code
     - title: Austrian Law RAG Application
       bullets:
         - Legal RAG application for an Austrian law firm using OCR, LLM and NLP services.
