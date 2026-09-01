@@ -31,10 +31,11 @@
        display: none;
     }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
-    }
+   .skillset .skill-item {
+      border-color: #999 !important;
+      background: #fff !important;
+      color: #000 !important;
+   }
 
    .fa-inverse,
    .fa-inverse:after,
